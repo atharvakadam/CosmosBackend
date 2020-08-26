@@ -1,0 +1,22 @@
+{
+  "name": "cosmosbackend",
+  "version": "1.0.0",
+  "description": "Backend for the cosmos web app built with Node and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharvakadam/CosmosBackend.git"
+  },
+  "author": "Atharva Kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharvakadam/CosmosBackend/issues"
+  },
+  "homepage": "https://github.com/atharvakadam/CosmosBackend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
